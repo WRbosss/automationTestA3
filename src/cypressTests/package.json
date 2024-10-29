@@ -1,0 +1,17 @@
+{
+  "name": "cypresstests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "waldyr",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.15.1"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
